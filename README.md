@@ -1,7 +1,5 @@
 
-
-![N|Solid](https://raw.githubusercontent.com/Wilkor/img-clonebots/main/logoParseHorizontal.jpeg)
-
+![icone_github](https://github.com/Wilkor/doc-plugin-desk/assets/34819624/e784a3c3-958c-4731-9f10-7628948545fb)
 
 O **Plugin Desk**, foi criado para dar mais autonimia para seus atendentes. 
 
